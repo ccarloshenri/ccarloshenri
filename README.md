@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Olá! Eu sou **Carlos Henrique de Sousa**
 
-<!--
-**ccarloshenri/ccarloshenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **desenvolvedor backend** apaixonado por tecnologia e segurança digital. Possuo experiência em **Python**, **AWS**, **Clean Code**, **Testes Unitários** e **Microsserviços**, sempre buscando desenvolver soluções escaláveis e seguras.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-005571?style=for-the-badge&logo=microservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ccarloshenri&show_icons=true&theme=tokyonight&hide=contribs,prs)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ccarloshenri&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Como me encontrar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-sousaa/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ccarloshenri/)
+
+---
+
+✨ Sempre em busca de novos desafios e aprendizados!
