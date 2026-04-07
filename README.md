@@ -44,18 +44,6 @@ Clean Code, testes unitários, boas práticas de arquitetura
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ccarloshenri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarloshenri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/carlos-sousaa/  
