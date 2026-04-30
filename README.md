@@ -1,4 +1,4 @@
-Carlos Henrique de Sousa
+# Carlos Henrique de Sousa
 
 Senior Backend Developer focused on building scalable APIs, distributed systems and event-driven architectures.
 
@@ -10,41 +10,52 @@ Hands-on experience with cloud-native architectures on AWS, building decoupled s
 
 Experience with transaction processing and financial integrations (ISO8583), working on systems that require consistency, reliability and fault tolerance.
 
-Stack & Expertise
+---
 
-Backend
-Go, Python, Java, Node.js, REST APIs, WebSocket, Microservices
+## Stack & Expertise
 
-Architecture
-Distributed Systems, Event-Driven Architecture, Clean Architecture, SOLID
+**Backend**  
+Go, Python, Java, Node.js, REST APIs, WebSocket, Microservices  
 
-Concurrency & Processing
-Asynchronous Processing, Queues, Workers, Parallel Execution
+**Architecture**  
+Distributed Systems, Event-Driven Architecture, Clean Architecture, SOLID  
 
-Cloud & Infrastructure
-AWS (Lambda, API Gateway, SQS, DynamoDB, Secrets Manager)
+**Concurrency & Processing**  
+Asynchronous Processing, Queues, Workers, Parallel Execution  
 
-Data
-DynamoDB, high-performance data modeling, low-latency systems
+**Cloud & Infrastructure**  
+AWS (Lambda, API Gateway, SQS, DynamoDB, Secrets Manager)  
 
-Payments & Integrations
-ISO8583, payment gateways, transaction processing
+**Data**  
+DynamoDB, high-performance data modeling, low-latency systems  
 
-Observability
-Logging, monitoring, system performance under load
+**Payments & Integrations**  
+ISO8583, payment gateways, transaction processing  
 
-Security
-Authentication, token-based systems, 2FA, secure APIs
+**Observability**  
+Logging, monitoring, system performance under load  
 
-Highlights
-Design and implementation of scalable backend systems under high load
-Experience with asynchronous processing using queues and event-driven flows
-Strong focus on concurrency, performance and system reliability
-Experience with real-time communication using WebSocket
-Development of cloud-native systems on AWS
-Building maintainable systems with clear separation between domain and infrastructure
-Contact
-LinkedIn: https://www.linkedin.com/in/carlos-sousaa/
-GitHub: https://github.com/ccarloshenri/
+**Security**  
+Authentication, token-based systems, 2FA, secure APIs  
+
+---
+
+## Highlights
+
+- Design and implementation of scalable backend systems under high load  
+- Experience with asynchronous processing using queues and event-driven flows  
+- Strong focus on concurrency, performance and system reliability  
+- Experience with real-time communication using WebSocket  
+- Development of cloud-native systems on AWS  
+- Building maintainable systems with clear separation between domain and infrastructure  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/carlos-sousaa/  
+- GitHub: https://github.com/ccarloshenri/  
+
+---
 
 Senior Backend Developer focused on APIs, distributed systems, concurrency and scalable architectures.
