@@ -1,54 +1,50 @@
-# Carlos Henrique de Sousa
+Carlos Henrique de Sousa
 
-Desenvolvedor Backend com foco em sistemas distribuídos, alta escalabilidade e arquitetura orientada a eventos.
+Senior Backend Developer focused on building scalable APIs, distributed systems and event-driven architectures.
 
-Atuo principalmente com Python e AWS, construindo APIs resilientes, pipelines assíncronos e soluções voltadas para processamento de alto volume. Tenho experiência prática com sistemas de pagamentos, integrações financeiras (ISO8583) e arquiteturas críticas que exigem confiabilidade e performance.
+Experience designing and implementing backend services that handle high concurrency, asynchronous processing and real-world production workloads. Strong background in building reliable systems that operate under continuous traffic with predictable performance.
 
-Tenho forte interesse em segurança, processamento em larga escala e desenho de sistemas que suportam cenários reais de alta demanda.
+Proficient in Go, Python, Java and Node.js, applying each language based on system requirements, performance and concurrency needs.
 
----
+Hands-on experience with cloud-native architectures on AWS, building decoupled systems using queues, workers and event-driven communication.
 
-## Stack e Especialidades
+Experience with transaction processing and financial integrations (ISO8583), working on systems that require consistency, reliability and fault tolerance.
 
-**Backend**  
-Python, APIs REST, microsserviços, arquitetura orientada a eventos  
+Stack & Expertise
 
-**Cloud e Infraestrutura**  
-AWS (Lambda, API Gateway, SQS, DynamoDB, Secrets Manager)  
+Backend
+Go, Python, Java, Node.js, REST APIs, WebSocket, Microservices
 
-**Mensageria e Escalabilidade**  
-SQS, processamento assíncrono, filas, desacoplamento de serviços  
+Architecture
+Distributed Systems, Event-Driven Architecture, Clean Architecture, SOLID
 
-**Tempo real**  
-WebSocket, comunicação bidirecional, sistemas de mensageria  
+Concurrency & Processing
+Asynchronous Processing, Queues, Workers, Parallel Execution
 
-**Dados**  
-DynamoDB, modelagem para alta performance, baixa latência  
+Cloud & Infrastructure
+AWS (Lambda, API Gateway, SQS, DynamoDB, Secrets Manager)
 
-**Pagamentos e Integrações**  
-ISO8583, gateways de pagamento, adquirência  
+Data
+DynamoDB, high-performance data modeling, low-latency systems
 
-**Qualidade e Engenharia**  
-Clean Code, testes unitários, boas práticas de arquitetura  
+Payments & Integrations
+ISO8583, payment gateways, transaction processing
 
----
+Observability
+Logging, monitoring, system performance under load
 
-## Destaques Técnicos
+Security
+Authentication, token-based systems, 2FA, secure APIs
 
-- Construção de sistemas escaláveis com arquitetura desacoplada  
-- Processamento de alto volume utilizando filas e eventos  
-- Experiência com sistemas financeiros e integrações críticas  
-- Desenvolvimento com foco em segurança e proteção de dados  
-- Comunicação em tempo real via WebSocket  
-- Design de soluções resilientes na AWS  
+Highlights
+Design and implementation of scalable backend systems under high load
+Experience with asynchronous processing using queues and event-driven flows
+Strong focus on concurrency, performance and system reliability
+Experience with real-time communication using WebSocket
+Development of cloud-native systems on AWS
+Building maintainable systems with clear separation between domain and infrastructure
+Contact
+LinkedIn: https://www.linkedin.com/in/carlos-sousaa/
+GitHub: https://github.com/ccarloshenri/
 
----
-
-## Contato
-
-- LinkedIn: https://www.linkedin.com/in/carlos-sousaa/  
-- GitHub: https://github.com/ccarloshenri/  
-
----
-
-Desenvolvedor focado em backend, escalabilidade e sistemas distribuídos.
+Senior Backend Developer focused on APIs, distributed systems, concurrency and scalable architectures.
