@@ -1,61 +1,44 @@
-# Carlos Henrique de Sousa
+<h1 align="center">Carlos Henrique de Sousa</h1>
 
-Senior Backend Developer focused on building scalable APIs, distributed systems and event-driven architectures.
+<p align="center">
+  Senior Backend Engineer · Payment Systems · AWS · Distributed Systems
+</p>
 
-Experience designing and implementing backend services that handle high concurrency, asynchronous processing and real-world production workloads. Strong background in building reliable systems that operate under continuous traffic with predictable performance.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Payment+systems+under+real+load;Distributed+systems+at+scale;Production+systems+handling+financial+transactions" />
+</p>
 
-Proficient in Go, Python, Java and Node.js, applying each language based on system requirements, performance and concurrency needs.
+<br>
 
-Hands-on experience with cloud-native architectures on AWS, building decoupled systems using queues, workers and event-driven communication.
+I build and operate payment systems that handle real-world financial transactions under continuous load.
 
-Experience with transaction processing and financial integrations (ISO8583), working on systems that require consistency, reliability and fault tolerance.
+Experience across e-commerce and POS (TEF) environments, supporting Pix, boleto and credit card flows, processing thousands of transactions daily.
 
----
+Worked in multi-acquirer environments (Cielo, Rede, Adiq, Banese, Vero), handling real-time transaction processing using both ISO 8583 and REST-based integrations.
 
-## Stack & Expertise
+Focused on building systems that operate reliably under failure, with strong experience in retries, idempotency and external integration handling.
 
-**Backend**  
-Go, Python, Java, Node.js, REST APIs, WebSocket, Microservices  
+<br>
 
-**Architecture**  
-Distributed Systems, Event-Driven Architecture, Clean Architecture, SOLID  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,python,nodejs,aws,dynamodb" />
+</p>
 
-**Concurrency & Processing**  
-Asynchronous Processing, Queues, Workers, Parallel Execution  
+<br>
 
-**Cloud & Infrastructure**  
-AWS (Lambda, API Gateway, SQS, DynamoDB, Secrets Manager)  
+Strong experience designing distributed systems using event-driven architecture and asynchronous processing, building services that sustain high concurrency and continuous traffic.
 
-**Data**  
-DynamoDB, high-performance data modeling, low-latency systems  
+Worked on AWS environments using ECS, Lambda, API Gateway, SQS, SNS, DynamoDB and S3, focusing on scalability, resilience and production reliability.
 
-**Payments & Integrations**  
-ISO8583, payment gateways, transaction processing  
+Hands-on experience debugging production issues in high-volume systems, analyzing failures and ensuring fast recovery of critical transaction flows.
 
-**Observability**  
-Logging, monitoring, system performance under load  
+<br>
 
-**Security**  
-Authentication, token-based systems, 2FA, secure APIs  
-
----
-
-## Highlights
-
-- Design and implementation of scalable backend systems under high load  
-- Experience with asynchronous processing using queues and event-driven flows  
-- Strong focus on concurrency, performance and system reliability  
-- Experience with real-time communication using WebSocket  
-- Development of cloud-native systems on AWS  
-- Building maintainable systems with clear separation between domain and infrastructure  
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/carlos-sousaa/  
-- GitHub: https://github.com/ccarloshenri/  
-
----
-
-Senior Backend Developer focused on APIs, distributed systems, concurrency and scalable architectures.
+<p>
+  <a href="https://www.linkedin.com/in/carlos-sousaa/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ccarloshenri">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
